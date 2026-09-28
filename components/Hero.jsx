@@ -3,7 +3,8 @@
 import { useEffect, useRef, useState } from "react";
 import { useTranslations } from "next-intl";
 
-const VIDEO_SRC = "https://res.cloudinary.com/dkpsmuui1/video/upload/v1790344930/Tasia-Hero_gqx6c7.mp4";
+const VIDEO_SRC =
+  "/images/Tasia-Hero.mp4";
 const POSTER_SRC =
   "https://res.cloudinary.com/dkpsmuui1/image/upload/v1790600419/WhatsApp_Image_2026-09-28_at_3.59.46_PM_sqkmk8.jpg";
 
@@ -13,15 +14,15 @@ export default function Hero() {
   const [showVideo, setShowVideo] = useState(false);
 
   useEffect(() => {
-    // Skip the video only for visitors who asked their device to reduce motion.
+    const isSmallScreen = window.matchMedia("(max-width: 640px)").matches;
     const prefersReducedMotion = window.matchMedia(
       "(prefers-reduced-motion: reduce)"
     ).matches;
-    setShowVideo(!prefersReducedMotion);
+    setShowVideo(!isSmallScreen && !prefersReducedMotion);
   }, []);
 
   return (
-    <section className="relative aspect-[4/3] w-full overflow-hidden bg-charcoal sm:aspect-[2.2/1]">
+    <section className="relative overflow-hidden bg-charcoal w-full aspect-[2.2/1]">
       {showVideo ? (
         <video
           ref={videoRef}
@@ -47,7 +48,7 @@ export default function Hero() {
         <h1 className="max-w-md font-display text-lg italic leading-snug text-warm-ivory lg:text-5xl">
           {t("title")}
         </h1>
-        <p className="max-w-md font-display text-sm italic leading-snug text-warm-ivory lg:text-lg">
+        <p className="max-w-md font-display text-s italic leading-snug text-warm-ivory lg:text-lg">
           {t("subtitle")}
         </p>
       </div>
