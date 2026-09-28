@@ -109,7 +109,7 @@ export default function Navbar() {
           className="relative h-10 w-28 shrink-0 rounded-md focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-navy sm:h-12 sm:w-32 lg:h-14 lg:w-36"
         >
           <Image
-            src="/images/LOGOs.png"
+            src="https://res.cloudinary.com/dkpsmuui1/image/upload/v1790617148/LOGOs_d2fynw.png"
             alt="Tasia"
             fill
             className="object-contain object-left"
