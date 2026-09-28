@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import { useTranslations } from "next-intl";
 
 const VIDEO_SRC =
-  "https://res.cloudinary.com/dkpsmuui1/video/upload/v1790344930/Tasia-Hero_gqx6c7.mp4";
+  "/images/Tasia-Hero.mp4";
 const POSTER_SRC =
   "https://res.cloudinary.com/dkpsmuui1/image/upload/v1790600419/WhatsApp_Image_2026-09-28_at_3.59.46_PM_sqkmk8.jpg";
 
