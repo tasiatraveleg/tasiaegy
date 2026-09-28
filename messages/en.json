@@ -1,0 +1,179 @@
+{
+  "Metadata": {
+    "title": "TASIA — Immersive travel into the living past",
+    "description": "TASIA turns travel on its head. Cultural journeys across Egypt and beyond, guided by people who have spent their lives studying its history."
+  },
+    "Nav": {
+    "home": "Home",
+    "whyTasia": "Why Tasia",
+    "about": "About Us",
+    "programs": "Programs",
+    "gallery": "Gallery",
+    "contact": "Contact Us",
+    "cta": "Start your journey",
+    "homeAria": "Tasia home",
+    "mainNav": "Main",
+    "mobileNav": "Mobile",
+    "changeLanguage": "Change language",
+    "language": "Language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+    "Hero": {
+    "title": "Egypt",
+    "subtitle": "From the heart of the Nile, endless Egyptian stories."
+  },
+    "About": {
+    "eyebrow": "About Us",
+    "tabs": {
+      "vision": "Vision",
+      "impact": "Impact",
+      "why": "Why"
+    },
+    "vision": {
+      "heading": "Beyond What you",
+      "highlight": "see.",
+      "imageAlt": "An Egyptologist studying ancient hieroglyphs by torchlight",
+      "stat": "7,000",
+      "statCaption": "years of story, told in the present tense",
+      "p1": "TASIA is a cultural travel brand that creates meaningful journeys across Egypt and beyond, connecting travelers with the history, cultures, and human stories that shaped the world we know today.",
+      "p2": "We go beyond conventional tourism to transform places, heritage, and ancient traces into immersive experiences of discovery, knowledge, and connection.",
+      "philosophyTitle": "Our Philosophy",
+      "p3": "We believe every trace of humanity carries a story. A monument, a city, an ancient object, a tradition, or a work of art is more than a remnant of the past — it is evidence of humanity's timeless attempt to understand life, nature, society, and the universe.",
+      "p4": "TASIA sees travel as a journey through places, time, cultures, and human thought — one that begins with discovering the world and ultimately leads us closer to understanding ourselves."
+    },
+    "impact": {
+      "heading": "What makes us",
+      "highlight": "Different.",
+      "imageAlt": "A sweeping view of Egypt's landscape at dusk",
+      "stat": "100+",
+      "statCaption": "journeys designed around real understanding",
+      "items": [
+        "We go beyond sightseeing.",
+        "While traditional tourism focuses on what travelers see, TASIA focuses on what they understand, feel, and take away from it.",
+        "We transform monuments, landscapes, traditions, and historical traces into stories that reveal how people lived, thought, created, and understood their world.",
+        "Every journey is designed to move from observation to understanding."
+      ]
+    },
+    "why": {
+      "heading": "Why choose",
+      "highlight": "TASIA?",
+      "imageAlt": "A guide sharing a story with travelers on location",
+      "stat": "1:1",
+      "statCaption": "personalized support from start to finish",
+      "intro": "Because we believe the most valuable souvenir is not something you bring home — it is something you understand.",
+      "combineTitle": "Our journeys combine:",
+      "combine": [
+        "Personalized itineraries shaped around each traveler",
+        "Cultural depth beyond conventional tourist narratives",
+        "Expert knowledge delivered through meaningful storytelling",
+        "Authentic experiences that bring travelers closer to local cultures",
+        "Immersive journeys designed to create lasting impressions"
+      ],
+      "serviceTitle": "Thoughtful service from the first step to the last:",
+      "service": [
+        "Seamless airport reception & assistance",
+        "Handpicked accommodation & private transportation",
+        "Expert Egyptologist guides",
+        "Curated cultural & authentic local experiences",
+        "Personalized support throughout your journey",
+        "Professional travel photography"
+      ]
+    }
+  },
+    "ProgramsSection": {
+    "eyebrow": "Our Programs",
+    "heading": "Stories told over <highlight>days</highlight>, not minutes.",
+    "description": "Every program begins as a place and becomes a question. Pick the discipline that stirs you — we will map the land to your curiosity."
+  },
+    "ProgramCard": {
+    "explore": "Explore this journey",
+    "tags": {
+      "Signature": "Signature",
+      "New": "New",
+      "Classic": "Classic",
+      "Limited": "Limited",
+      "Spiritual": "Spiritual"
+    }
+  }, 
+
+    "Program": {
+    "reserve": "Reserve a place",
+    "viewItinerary": "View the itinerary",
+    "theJourney": "THE JOURNEY",
+    "setsApart": "WHAT SETS THIS JOURNEY APART",
+    "atAGlance": "AT A GLANCE",
+    "duration": "Duration",
+    "group": "Group",
+    "route": "Route",
+    "pace": "Pace",
+    "stayingIn": "Staying in",
+    "fieldsOfStudy": "FIELDS OF STUDY",
+    "dayByDay": "DAY BY DAY",
+    "dayByDayTitle": "a few days, told as one Story.",
+    "dayByDayNote": "An indicative rhythm only — each journey is refined with your historian to match how you want to spend your hours.",
+    "day": "DAY {number}",
+    "prevDay": "Previous day",
+    "nextDay": "Next day",
+    "goToDay": "Go to day {number}",
+    "keepExploring": "KEEP EXPLORING",
+    "otherJourneys": "Other signature journeys.",
+    "viewAll": "View all Programs",
+    "explore": "Explore this journey",
+    "ready": "Ready to live this story?",
+    "defaultGroup": "Small group",
+    "defaultPace": "Moderate — unhurried mornings",
+    "defaultStayingIn": "Heritage hotels & boutique lodges",
+    "defaultHighlights": [
+      "One continuous story, not isolated sights",
+      "Historians, archaeologists and locals as your guides",
+      "A pace built around understanding, not rushing"
+    ]
+  },
+   "Footer": {
+      "logoAlt": "Tasia — Journey in Sight",
+      "tagline": "Immersive travel into the living past.",
+      "explore": "Explore",
+      "contact": "Contact",
+      "links": {
+        "home": "Home",
+        "programs": "Programs",
+        "gallery": "Gallery",
+        "contact": "Contact Us"
+      },
+      "copyright": "© {year} TASIA. All rights reserved.",
+      "credit": "A modern myth — direction, design & storytelling."
+    },
+      "ProgramsPage": {
+    "eyebrow": "Our Programs",
+    "heading": "Every journey, mapped to a curiosity."
+  },
+   "GalleryPage": {
+    "metaTitle": "Gallery | TASIA",
+    "metaDescription": "Explore the places and destinations featured by TASIA.",
+    "eyebrow": "Gallery",
+    "heading": "Every place a <highlight>chapter</highlight> in a longer story.",
+    "empty": "No destinations yet. Check back soon.",
+    "places": "{count, plural, one {# place} other {# places}}"
+  },
+  "CountryPage": {
+    "galleryLabel": "Gallery",
+    "metaDescription": "{count, plural, one {# place} other {# places}} in {country}, one story.",
+    "backToCountries": "All countries",
+    "defaultCountry": "Egypt"
+  },
+  "ContactPage": {
+    "eyebrow": "Contact Us",
+    "heading": "Tell us the question your <highlight>next trip</highlight> should answer.",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@example.com",
+    "messageLabel": "What are you curious about?",
+    "messagePlaceholder": "Tell us about the journey you're imagining...",
+    "submit": "Send inquiry",
+    "phone": "Phone",
+    "emailContact": "Email"
+  }
+
+}

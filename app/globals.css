@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Palette — Tasia brand (logo + color reference) */
+  --color-warm-beige: #F2E6CB;
+  --color-soft-sand: #EFC478;
+  --color-navy: #1B3E66;
+  --color-navy-dark: #142F4D;
+  --color-charcoal: #1B3E66;
+  --color-warm-ivory: #F9F2E9;
+
+  --font-display: "Playfair Display", Georgia, serif;
+  --font-body: "Inter", -apple-system, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-warm-ivory);
+  color: var(--color-charcoal);
+  font-family: var(--font-body);
+}
+
+::selection {
+  background: var(--color-navy);
+  color: var(--color-warm-ivory);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-navy);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,176 @@
+{"Metadata": {
+  "title": "TASIA — Viagens imersivas ao passado vivo",
+  "description": "A TASIA vira as viagens do avesso. Jornadas culturais pelo Egito e além, guiadas por quem dedicou a vida a estudar a sua história."
+},
+    "Nav": {
+    "home": "Início",
+    "whyTasia": "Porquê a Tasia",
+    "about": "Sobre Nós",
+    "programs": "Experiências",
+    "gallery": "Galeria",
+    "contact": "Entre em Contato",
+    "cta": "Comece sua Jornada",
+    "homeAria": "Tasia — página inicial",
+    "mainNav": "Principal",
+    "mobileNav": "Móvel",
+    "changeLanguage": "Alterar idioma",
+    "language": "Idioma",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu"
+  },
+    "Hero": {
+    "title": "Egito",
+    "subtitle": "Do coração do Nilo, histórias egípcias sem fim."
+  },
+    "About": {
+    "eyebrow": "Sobre Nós",
+    "tabs": {
+      "vision": "Visão",
+      "impact": "Impacto",
+      "why": " Por que a TASIA"
+    },
+    "vision": {
+      "heading": "Além do que você",
+      "highlight": "vê.",
+      "imageAlt": "Um egiptólogo a estudar hieróglifos antigos à luz de tochas",
+      "stat": "7.000",
+      "statCaption": "anos de histórias, vivas no presente.",
+      "p1": "A TASIA é uma marca de viagens culturais que cria jornadas significativas pelo Egito e além, conectando viajantes à história, às culturas e às histórias humanas que moldaram o mundo que conhecemos hoje.",
+      "p2": "Vamos além do turismo convencional para transformar lugares, patrimônios e vestígios ancestrais em experiências imersivas de descoberta, conhecimento e conexão.",
+      "philosophyTitle": "Nossa Filosofia",
+      "p3": "Acreditamos que cada vestígio da humanidade carrega uma história. Um monumento, uma cidade, um objeto antigo, uma tradição ou uma obra de arte é mais do que um vestígio do passado — é uma expressão da busca atemporal da humanidade por compreender a vida, a natureza, a sociedade e o universo.",
+      "p4": "Para a TASIA, viajar é uma jornada através de lugares, do tempo, das culturas e do pensamento humano — uma jornada que começa com a descoberta do mundo e, no fim, nos aproxima de uma compreensão mais profunda de nós mesmos."
+    },
+    "impact": {
+      "heading": "O que nos torna",
+      "highlight": "Diferentes.",
+      "imageAlt": "Uma vista panorâmica da paisagem do Egito ao entardecer",
+      "stat": "100+",
+      "statCaption": "jornadas pensadas para transformar descoberta em compreensão.",
+      "items": [
+        "Vamos além de simplesmente visitar lugares.",
+        "Enquanto o turismo tradicional se concentra no que os viajantes veem, a TASIA se concentra no que eles compreendem, sentem e levam consigo.",
+        "Transformamos monumentos, paisagens, tradições e vestígios históricos em histórias que revelam como as pessoas viviam, pensavam, criavam e compreendiam o mundo ao seu redor.",
+        "Cada jornada é cuidadosamente concebida para transformar a observação em compreensão."
+      ]
+    },
+    "why": {
+      "heading": "Por que escolher a",
+      "highlight": "TASIA?",
+      "imageAlt": "Um guia a partilhar uma história com viajantes no local",
+      "stat": "1:1",
+      "statCaption": "Suporte personalizado do início ao fim.",
+      "intro": "Porque acreditamos que a lembrança mais valiosa não é algo que você leva para casa — é algo que você compreende.",
+      "combineTitle": "Nossas jornadas combinam:",
+      "combine": [
+        "Itinerários personalizados, criados de acordo com cada viajante",
+        "Profundidade cultural que vai além das narrativas turísticas convencionais",
+        "Conhecimento especializado, transmitido por meio de uma narrativa envolvente",
+        "Experiências autênticas que aproximam os viajantes das culturas locais",
+        "Jornadas imersivas, pensadas para criar memórias que permanecem"
+      ],
+      "serviceTitle": "Um serviço cuidadoso, do primeiro passo ao último:",
+      "service": [
+        "Recepção e assistência no aeroporto, com total tranquilidade",
+        "Hospedagem selecionada e transporte privativo",
+        "Guias egiptólogos especializados",
+        "Experiências culturais autênticas, cuidadosamente selecionadas",
+        "Suporte personalizado durante toda a jornada",
+        "Fotografia profissional de viagem"
+      ]
+    }
+  },
+    "ProgramsSection": {
+    "eyebrow": "Nossos Programas",
+    "heading": "Histórias contadas ao longo de dias, não de minutos.",
+    "description": "Cada programa começa como um lugar e se transforma em uma pergunta. Escolha a área que desperta sua curiosidade — nós traçaremos o mapa da terra de acordo com aquilo que você deseja compreender."
+  },
+    "ProgramCard": {
+    "explore": "Explorar esta viagem",
+    "tags": {
+      "Signature": "Assinatura",
+      "New": "Novo",
+      "Classic": "Clássico",
+      "Limited": "Edição limitada",
+      "Spiritual": "Espiritual"
+    }
+  },
+ "Program": {
+    "reserve": "Reserve seu lugar",
+    "viewItinerary": "Confira o roteiro",
+    "theJourney": "A VIAGEM",
+    "setsApart": "O QUE DISTINGUE ESTA VIAGEM",
+    "atAGlance": "EM RESUMO",
+    "duration": "Duração",
+    "group": "Grupo",
+    "route": "Rota",
+    "pace": "Ritmo",
+    "stayingIn": "Alojamento",
+    "fieldsOfStudy": "ÁREAS DE ESTUDO",
+    "dayByDay": "DIA A DIA",
+    "dayByDayTitle": "Alguns dias, contados como uma única história.",
+    "dayByDayNote": "Apenas um ritmo sugerido — cada viagem é personalizada com seu historiador para combinar com a forma como você deseja aproveitar cada momento.",
+    "day": "DIA {number}",
+    "prevDay": "Dia anterior",
+    "nextDay": "Dia seguinte",
+    "goToDay": "Ir para o dia {number}",
+    "keepExploring": "CONTINUE A EXPLORAR",
+    "otherJourneys": "Outras viagens de assinatura.",
+    "viewAll": "Ver todos os programas",
+    "explore": "Explorar esta viagem",
+    "ready": "Pronto para viver esta história?",
+    "defaultGroup": "Grupo pequeno",
+    "defaultPace": "Moderado — manhãs sem pressa",
+    "defaultStayingIn": "Hotéis históricos e alojamentos boutique",
+    "defaultHighlights": [
+      "Uma história contínua, não pontos turísticos isolados",
+      "Historiadores, arqueólogos e habitantes locais como guias",
+      "Um ritmo pensado para compreender, sem pressas"
+    ]
+  },
+   "Footer": {
+      "logoAlt": "Tasia — Journey in Sight",
+      "tagline": "Viagens imersivas ao passado vivo.",
+      "explore": "Explorar",
+      "contact": "Contato",
+      "links": {
+        "home": "Início",
+        "programs": "Jornadas ",
+        "gallery": "Galeria",
+        "contact": "Entre em Contato"
+      },
+      "copyright": "© {year} TASIA. Todos os direitos reservados.",
+      "credit": "Um mito moderno — direção, design e storytelling."
+    },
+     "ProgramsPage": {
+    "eyebrow": "Nossos Programas",
+    "heading": "Cada viagem, guiada por uma curiosidade."
+  },
+  "GalleryPage": {
+    "metaTitle": "Galeria | TASIA",
+    "metaDescription": "Explore os lugares e destinos apresentados pela TASIA.",
+    "eyebrow": "Galeria",
+    "heading": "Cada lugar, um capítulo de uma história maior.",
+    "empty": "Ainda não há destinos. Volte em breve.",
+    "places": "{count, plural, one {# lugar} other {# lugares}}"
+  },
+  "CountryPage": {
+    "galleryLabel": "Galeria",
+    "metaDescription": "{count, plural, one {# lugar} other {# lugares}} em {country}, uma só história.",
+    "backToCountries": "Todos os países",
+    "defaultCountry": "Egito"
+  },
+  "ContactPage": {
+    "eyebrow": "Entre em contato",
+    "heading": "-nos o que você gostaria de descobrir na sua próxima viagem.",
+    "nameLabel": "Nome",
+    "namePlaceholder": "Seu nome",
+    "emailLabel": "Email",
+    "emailPlaceholder": "nome@exemplo.com",
+    "messageLabel": "O que você gostaria de descobrir?",
+    "messagePlaceholder": "Conte-nos sobre a viagem que está a imaginar...",
+    "submit": "Enviar consulta",
+    "phone": "Telefone",
+    "emailContact": "Email"
+  }
+}
