@@ -91,11 +91,7 @@ export default async function GalleryPage({ params }) {
                 >
                   <div className="relative aspect-[3/4] w-full">
                     <Image
-                      src={withTransform(
-                        country.coverImageUrl,
-                        "e_trim",
-                        "c_pad,ar_3:4,b_rgb:f9f2e9,q_auto,f_auto"
-                      )}
+                      src="https://res.cloudinary.com/dkpsmuui1/image/upload/v1790857265/2_xmxizd.jpg"
                       alt={country.name}
                       fill
                       priority={i < 2}
