@@ -106,10 +106,6 @@ export default function AboutTabs() {
         </div>
 
         <div>
-          <div className="mb-4 flex items-center gap-3">
-            <span className="h-px w-8 bg-navy" />
-            <span className="text-xs text-navy">{t("eyebrow")}</span>
-          </div>
           <h2 className="font-display text-3xl italic leading-tight text-charcoal sm:text-4xl">
             {t(`${active}.heading`)}{" "}
             <span className="text-navy">{t(`${active}.highlight`)}</span>
