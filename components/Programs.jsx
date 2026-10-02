@@ -37,6 +37,9 @@ export default async function Programs({ limit } = {}) {
               })}
             </h2>
           </div>
+          <p className="max-w-xs text-sm leading-relaxed text-charcoal/70">
+            {t("description")}
+          </p>
         </div>
 
         <div className="flex flex-col gap-8">
